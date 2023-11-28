@@ -1,0 +1,128 @@
+.nav-right{
+    justify-content: end;
+}
+
+header{
+    background-color: #0E1D41 ;
+}
+.bg-body-tertiary{
+    background-color: transparent !important;
+}
+.navbar-nav{
+    gap: 30px;
+}
+.nav-item a{
+    color: #fff !important;
+    font-weight: 500;   
+    text-transform: uppercase;
+}
+
+#sec-one{
+    padding: 80px 0;
+    background:url("../img/home_slider_bcg.jpg");
+}
+.sec-one-content{
+    padding: 80px 0px;
+}
+.sec-one-text-content{
+    padding: 80px 0;
+}
+
+.sec-one-text-content h1{
+    padding: 80px 0;
+    font-size: 92px;
+    text-align: center;
+    color: #fff;
+}
+
+
+#sec-two{
+    padding: 80px 0;
+}
+
+.sec-two-text{
+    text-align: center !important;
+}
+.sec-two-text h2{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.sec-two-text p{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #b0b1b3;
+    margin-top: -4px;
+}
+.col{
+    justify-content: center;
+}
+.card-content{
+    margin: 0 auto;
+    width: 350px;
+    padding: 40px 0;
+}
+.card-content img{
+    width: 100%;
+}
+
+.card-text{
+    padding: 20px 0;
+    background-color: #EDEFF4;
+}
+.card-bottom{
+    background-color: #0E1D41;
+    color: #fff;
+    padding: 20px 10px;
+}
+
+
+#sec-three{
+    background: url("../img/testimonials_background.jpg.webp");
+    color: #fff;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.main-content{
+    padding: 40px 0;
+}
+
+.sec-three-text 
+.main-content p{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.imggdiv{
+    padding-top: 40px;
+}
+
+.imggdiv img{
+    border-radius: 50%;
+}
+
+
+#sec-four{
+    padding: 80px 0;
+    background: url("../img/world.png");
+}
+.cartContent{
+    width: 160px;
+    height: 280px;
+}
+
+.cartContent img{
+    width: 100%;
+}
+
+footer{
+    background-color: #0E1D41;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+footer p{
+    margin: 0;
+}
